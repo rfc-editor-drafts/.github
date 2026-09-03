@@ -6,6 +6,6 @@ The RFC Production Center (RPC) is the team of professional editors that prepare
 
 **Authors**: If you are interested in conducting the Final Review in GitHub, please see information about the [GitHub pilot test](https://rpc-wiki.rfc-editor.org/doku.php?id=rpc-github-phase-0-pilot-test).
 
-For information about documents within the publication queue, please see [queue.rfc-editor.org](https://queue.rfc-editor.org).
+For information about documents in the RFC Editor publication queue, please see [queue.rfc-editor.org](https://queue.rfc-editor.org).
 
 For published RFCs, please see [www.rfc-editor.org](https://www.rfc-editor.org/).
