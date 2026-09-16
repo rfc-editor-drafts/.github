@@ -1,4 +1,4 @@
-### RFC-Editor Drafts
+### RFC Editor Drafts
 
 This GitHub organization contains the repositories of documents that are being edited by the RFC Production Center. It also contains the archives of the documents that have been published to www.rfc-editor.org.
 
